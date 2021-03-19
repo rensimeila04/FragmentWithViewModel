@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF">
+    android:background="#fff">
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"
@@ -24,7 +24,7 @@
         android:layout_marginBottom="8dp"
         android:text="TextView"
         android:textAlignment="center"
-        android:textColor="#000000"
+        android:textColor="#000"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
