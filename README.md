@@ -29,3 +29,20 @@ Fragment merupakan komponen utuh yang memiliki view, event, dan logic (meskipun 
 - [x] <b> ViewPager </b>
 > ViewPager dapat otomatis digunakan untuk transisi antara satu layar penuh ke layar yang lain dan sering digunakan di UI seperti wizard penyiapan atau slideshow.[more](https://developer.android.com/training/animation/screen-slide)
 
+## App
+<p align="center">
+  <a <code><img width="20%" src="https://github.com/rensimeila04/FragmentWithViewModel/blob/master/drakorqu%20screenshots/intro1.jpg"></code>
+  </a>
+  <a <code><img width="20%" src="https://github.com/rensimeila04/FragmentWithViewModel/blob/master/drakorqu%20screenshots/intro2.jpg"></code>
+  </a>
+  <a <code><img width="20%" src="https://github.com/rensimeila04/FragmentWithViewModel/blob/master/drakorqu%20screenshots/intro%20home.gif"></code>
+  </a>
+  <a <code><img width="20%" src="https://github.com/rensimeila04/FragmentWithViewModel/blob/master/drakorqu%20screenshots/my%20list.gif"></code>
+  </a>
+  <a <code><img width="20%" src="https://github.com/rensimeila04/FragmentWithViewModel/blob/master/drakorqu%20screenshots/add.jpg"></code>
+  </a>
+  <a <code><img width="20%" src="https://github.com/rensimeila04/FragmentWithViewModel/blob/master/drakorqu%20screenshots/list.jpg"></code>
+  </a>
+  
+ </p>
+
